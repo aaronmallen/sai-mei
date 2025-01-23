@@ -9,6 +9,10 @@ RSpec.describe Sai::Mei do
     end
   end
 
+  describe '.css' do
+    include_examples 'it returns a Palette instance', :css
+  end
+
   describe '.xterm' do
     include_examples 'it returns a Palette instance', :xterm
   end

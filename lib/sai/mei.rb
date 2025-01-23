@@ -19,6 +19,22 @@ module Sai
   #
   # @api public
   module Mei
+    # The CSS color palette
+    #
+    # @author {https://aaronmallen.me Aaron Allen}
+    # @since unreleased
+    #
+    # @api public
+    #
+    # @example Installing the CSS color palette
+    #   Sai::Mei.css.install
+    #
+    # @return [Palette] the CSS color palette instance
+    # @rbs () -> Palette
+    def self.css
+      Palette.load(:CSS)
+    end
+
     # The XTERM color palette
     #
     # @author {https://aaronmallen.me Aaron Allen}
