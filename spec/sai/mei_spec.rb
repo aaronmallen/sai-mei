@@ -13,6 +13,10 @@ RSpec.describe Sai::Mei do
     include_examples 'it returns a Palette instance', :css
   end
 
+  describe '.tailwind' do
+    include_examples 'it returns a Palette instance', :tailwind
+  end
+
   describe '.xterm' do
     include_examples 'it returns a Palette instance', :xterm
   end

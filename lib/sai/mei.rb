@@ -35,6 +35,22 @@ module Sai
       Palette.load(:CSS)
     end
 
+    # The Tailwind color palette
+    #
+    # @author {https://aaronmallen.me Aaron Allen}
+    # @since unreleased
+    #
+    # @api public
+    #
+    # @example Installing the Tailwind color palette
+    #   Sai::Mei.tailwind.install
+    #
+    # @return [Palette] the Tailwind color palette instance
+    # @rbs () -> Palette
+    def self.tailwind
+      Palette.load(:Tailwind)
+    end
+
     # The XTERM color palette
     #
     # @author {https://aaronmallen.me Aaron Allen}
