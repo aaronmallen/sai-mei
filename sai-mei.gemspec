@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
     'source_code_uri' => "#{SAI_NA_REPO_URL}/tree/#{SAI_NA_SEMVER}"
   }
 
-  spec.add_dependency 'sai', '~> 0.3'
+  spec.add_dependency 'sai', '~> 0.4'
 end

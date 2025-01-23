@@ -25,7 +25,7 @@ PATH
   remote: .
   specs:
     sai-mei (0.1.0)
-      sai (~> 0.3)
+      sai (~> 0.4)
 
 GEM
   remote: https://rubygems.org/
@@ -131,7 +131,7 @@ GEM
       rubocop (~> 1.21)
       yard
     ruby-progressbar (1.13.0)
-    sai (0.3.2)
+    sai (0.4.0)
     securerandom (0.4.1)
     simplecov (0.22.0)
       docile (~> 1.1)
