@@ -1,0 +1,141 @@
+# Generated from lib/sai/mei/palette.rb with RBS::Inline
+
+module Sai
+  module Mei
+    # The base module for color palettes
+    #
+    # @author {https://aaronmallen.me Aaron Allen}
+    # @since unreleased
+    #
+    # @abstract Include in subclass and define a constant named COLORS
+    # @api private
+    class Palette
+      # The candidates to be installed
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @return [Hash{Symbol => Array<Integer>}]
+      attr_reader candidates: Hash[Symbol, Array[Integer]]
+
+      # Load the Palette from configuration
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api private
+      #
+      # @param config_name [String, Symbol] the name of the configuration to load
+      #
+      # @return [Palette] the loaded Palette
+      # @rbs (String | Symbol config_name) -> Palette
+      def self.load: (String | Symbol config_name) -> Palette
+
+      # Initialize a new instance of the Palette
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api private
+      #
+      # @param lookup [Hash{Symbol => Array<Integer>}] the candidates to be installed
+      #
+      # @return [Palette] a new instance of the Palette
+      # @rbs (Hash[Symbol, Array[Integer]] lookup) -> Palette
+      def initialize: (Hash[Symbol, Array[Integer]] lookup) -> void
+
+      # Get all the names of the color names available in the Palette
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #   Sai::Mei.xterm.all_names #=> [:black, :maroon, :green, ...]
+      #
+      # @return [Array<Symbol>] the names of the colors in the palette
+      def color_names: () -> untyped
+
+      # Exclude colors from the palette
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #   Sai::Mei.xterm.except(:green, :dodger_blue_2, :spring_green_4).install
+      #
+      # @param color_names [Array<String, Symbol>] the names of the colors to exclude
+      #
+      # @return [Palette] the palette with the specified colors excluded
+      # @rbs (*String | Symbol color_names) -> Palette
+      def excluding: (*String | Symbol color_names) -> Palette
+
+      # Install the candidates into Sai
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #   Sai::Mei.xterm.install
+      #
+      # @return [void]
+      # @rbs () -> void
+      def install: () -> void
+
+      # Limit the color palette to specific named colors
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #   Sai::Mei.xterm.only(:green, :dodger_blue_2, :spring_green_4).install
+      #
+      # @param color_names [Array<String, Symbol>] the names of the colors to restrict the palette to
+      #
+      # @return [self] the palette with the specified colors
+      # @rbs (*String | Symbol color_names) -> self
+      def only: (*String | Symbol color_names) -> self
+
+      # Change the name specific colors in the palette
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #  Sai::Mei.xterm.rename(green: :xterm_green, dodger_blue_3: :xterm_dodger_blue).install
+      #
+      # @param color_map [Hash{String, Symbol => String, Symbol}] the mapping of color names to new names
+      #
+      # @return [self] the palette with the specified colors renamed
+      # @rbs (**String | Symbol color_map) -> self
+      def rename: (**String | Symbol color_map) -> self
+
+      # Reset the candidates to the original state
+      #
+      # @author {https://aaronmallen.me Aaron Allen}
+      # @since unreleased
+      #
+      # @api public
+      #
+      # @example
+      #   palette = Sai::Mei.xterm.except(:green)
+      #   palette.candidates.keys.include?(:green) #=> false
+      #   palette.reset.candidates.keys.include?(:green) #=> true
+      #
+      # @return [Palette] the Palette with the candidates reset
+      # @rbs () -> Palette
+      def reset!: () -> Palette
+    end
+  end
+end

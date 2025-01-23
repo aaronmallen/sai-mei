@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'sai'
+require 'sai/mei/palette'
 
 module Sai
   # An elegant color naming system extending Sai with sophisticated color palettes
