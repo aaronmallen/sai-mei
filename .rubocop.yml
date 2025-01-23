@@ -1,0 +1,6 @@
+inherit_gem:
+  rubocop-domainic-dev: config/rubocop/domainic.yml
+
+Naming/FileName:
+  Exclude:
+    - '**/sai-mei*'
