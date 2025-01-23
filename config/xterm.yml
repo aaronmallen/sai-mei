@@ -1,0 +1,1025 @@
+---
+aqua:
+  - 0
+  - 255
+  - 255
+aquamarine:
+  - 135
+  - 255
+  - 215
+aquamarine_79:
+  - 95
+  - 215
+  - 175
+aquamarine_86:
+  - 95
+  - 255
+  - 215
+black:
+  - 0
+  - 0
+  - 0
+blue:
+  - 0
+  - 0
+  - 255
+blue_19:
+  - 0
+  - 0
+  - 175
+blue_20:
+  - 0
+  - 0
+  - 215
+blue_21:
+  - 0
+  - 0
+  - 255
+blue_violet:
+  - 95
+  - 0
+  - 255
+cadet_blue:
+  - 95
+  - 175
+  - 135
+cadet_blue_73:
+  - 95
+  - 175
+  - 175
+chartreuse:
+  - 135
+  - 215
+  - 0
+chartreuse_118:
+  - 135
+  - 255
+  - 0
+chartreuse_64:
+  - 95
+  - 135
+  - 0
+chartreuse_70:
+  - 95
+  - 175
+  - 0
+chartreuse_76:
+  - 95
+  - 215
+  - 0
+chartreuse_82:
+  - 95
+  - 255
+  - 0
+cornflower_blue:
+  - 95
+  - 135
+  - 255
+cornsilk:
+  - 255
+  - 255
+  - 215
+cyan:
+  - 0
+  - 215
+  - 175
+cyan_50:
+  - 0
+  - 255
+  - 215
+cyan_51:
+  - 0
+  - 255
+  - 255
+dark_blue:
+  - 0
+  - 0
+  - 135
+dark_cyan:
+  - 0
+  - 175
+  - 135
+dark_goldenrod:
+  - 175
+  - 135
+  - 0
+dark_green:
+  - 0
+  - 95
+  - 0
+dark_khaki:
+  - 175
+  - 175
+  - 95
+dark_magenta:
+  - 135
+  - 0
+  - 135
+dark_magenta_91:
+  - 135
+  - 0
+  - 175
+dark_olive_green:
+  - 215
+  - 255
+  - 95
+dark_olive_green_107:
+  - 135
+  - 175
+  - 95
+dark_olive_green_113:
+  - 135
+  - 215
+  - 95
+dark_olive_green_149:
+  - 175
+  - 215
+  - 95
+dark_olive_green_155:
+  - 175
+  - 255
+  - 95
+dark_olive_green_192:
+  - 215
+  - 255
+  - 135
+dark_orange:
+  - 255
+  - 135
+  - 0
+dark_orange_130:
+  - 175
+  - 95
+  - 0
+dark_orange_166:
+  - 215
+  - 95
+  - 0
+dark_red:
+  - 95
+  - 0
+  - 0
+dark_red_88:
+  - 135
+  - 0
+  - 0
+dark_sea_green:
+  - 135
+  - 175
+  - 135
+dark_sea_green_115:
+  - 135
+  - 215
+  - 175
+dark_sea_green_150:
+  - 175
+  - 215
+  - 135
+dark_sea_green_151:
+  - 175
+  - 215
+  - 175
+dark_sea_green_157:
+  - 175
+  - 255
+  - 175
+dark_sea_green_158:
+  - 175
+  - 255
+  - 215
+dark_sea_green_193:
+  - 215
+  - 255
+  - 175
+dark_sea_green_65:
+  - 95
+  - 135
+  - 95
+dark_sea_green_71:
+  - 95
+  - 175
+  - 95
+dark_slate_gray:
+  - 135
+  - 255
+  - 255
+dark_slate_gray_116:
+  - 135
+  - 215
+  - 215
+dark_slate_gray_87:
+  - 95
+  - 255
+  - 255
+dark_turquoise:
+  - 0
+  - 215
+  - 215
+dark_violet:
+  - 135
+  - 0
+  - 215
+dark_violet_128:
+  - 175
+  - 0
+  - 215
+deep_pink:
+  - 255
+  - 0
+  - 135
+deep_pink_125:
+  - 175
+  - 0
+  - 95
+deep_pink_161:
+  - 215
+  - 0
+  - 95
+deep_pink_162:
+  - 215
+  - 0
+  - 135
+deep_pink_197:
+  - 255
+  - 0
+  - 95
+deep_pink_199:
+  - 255
+  - 0
+  - 175
+deep_pink_53:
+  - 95
+  - 0
+  - 95
+deep_pink_89:
+  - 135
+  - 0
+  - 95
+deep_sky_blue:
+  - 0
+  - 175
+  - 255
+deep_sky_blue_23:
+  - 0
+  - 95
+  - 95
+deep_sky_blue_24:
+  - 0
+  - 95
+  - 135
+deep_sky_blue_25:
+  - 0
+  - 95
+  - 175
+deep_sky_blue_31:
+  - 0
+  - 135
+  - 175
+deep_sky_blue_32:
+  - 0
+  - 135
+  - 215
+deep_sky_blue_38:
+  - 0
+  - 175
+  - 215
+dodger_blue:
+  - 0
+  - 135
+  - 255
+dodger_blue_26:
+  - 0
+  - 95
+  - 215
+dodger_blue_27:
+  - 0
+  - 95
+  - 255
+fuchsia:
+  - 255
+  - 0
+  - 255
+gold:
+  - 255
+  - 215
+  - 0
+gold_142:
+  - 175
+  - 175
+  - 0
+gold_178:
+  - 215
+  - 175
+  - 0
+green:
+  - 0
+  - 128
+  - 0
+green_28:
+  - 0
+  - 135
+  - 0
+green_34:
+  - 0
+  - 175
+  - 0
+green_40:
+  - 0
+  - 215
+  - 0
+green_46:
+  - 0
+  - 255
+  - 0
+green_yellow:
+  - 175
+  - 255
+  - 0
+grey:
+  - 128
+  - 128
+  - 128
+grey_102:
+  - 135
+  - 135
+  - 135
+grey_139:
+  - 175
+  - 135
+  - 175
+grey_145:
+  - 175
+  - 175
+  - 175
+grey_16:
+  - 0
+  - 0
+  - 0
+grey_188:
+  - 215
+  - 215
+  - 215
+grey_231:
+  - 255
+  - 255
+  - 255
+grey_232:
+  - 8
+  - 8
+  - 8
+grey_233:
+  - 18
+  - 18
+  - 18
+grey_234:
+  - 28
+  - 28
+  - 28
+grey_235:
+  - 38
+  - 38
+  - 38
+grey_236:
+  - 48
+  - 48
+  - 48
+grey_237:
+  - 58
+  - 58
+  - 58
+grey_238:
+  - 68
+  - 68
+  - 68
+grey_239:
+  - 78
+  - 78
+  - 78
+grey_240:
+  - 88
+  - 88
+  - 88
+grey_241:
+  - 98
+  - 98
+  - 98
+grey_242:
+  - 108
+  - 108
+  - 108
+grey_243:
+  - 118
+  - 118
+  - 118
+grey_244:
+  - 128
+  - 128
+  - 128
+grey_245:
+  - 138
+  - 138
+  - 138
+grey_246:
+  - 148
+  - 148
+  - 148
+grey_247:
+  - 158
+  - 158
+  - 158
+grey_248:
+  - 168
+  - 168
+  - 168
+grey_249:
+  - 178
+  - 178
+  - 178
+grey_250:
+  - 188
+  - 188
+  - 188
+grey_251:
+  - 198
+  - 198
+  - 198
+grey_252:
+  - 208
+  - 208
+  - 208
+grey_253:
+  - 218
+  - 218
+  - 218
+grey_254:
+  - 228
+  - 228
+  - 228
+grey_255:
+  - 238
+  - 238
+  - 238
+grey_59:
+  - 95
+  - 95
+  - 95
+honeydew:
+  - 215
+  - 255
+  - 215
+hot_pink:
+  - 255
+  - 95
+  - 175
+hot_pink_132:
+  - 175
+  - 95
+  - 135
+hot_pink_168:
+  - 215
+  - 95
+  - 135
+hot_pink_169:
+  - 215
+  - 95
+  - 175
+hot_pink_206:
+  - 255
+  - 95
+  - 215
+indian_red:
+  - 175
+  - 95
+  - 95
+indian_red_167:
+  - 215
+  - 95
+  - 95
+indian_red_203:
+  - 255
+  - 95
+  - 95
+indian_red_204:
+  - 255
+  - 95
+  - 135
+khaki:
+  - 255
+  - 255
+  - 135
+khaki_185:
+  - 215
+  - 215
+  - 95
+light_coral:
+  - 255
+  - 135
+  - 135
+light_cyan:
+  - 215
+  - 255
+  - 255
+light_cyan_152:
+  - 175
+  - 215
+  - 215
+light_goldenrod:
+  - 255
+  - 255
+  - 95
+light_goldenrod_179:
+  - 215
+  - 175
+  - 95
+light_goldenrod_186:
+  - 215
+  - 215
+  - 135
+light_goldenrod_221:
+  - 255
+  - 215
+  - 95
+light_goldenrod_222:
+  - 255
+  - 215
+  - 135
+light_green:
+  - 135
+  - 255
+  - 95
+light_green_120:
+  - 135
+  - 255
+  - 135
+light_pink:
+  - 255
+  - 175
+  - 175
+light_pink_174:
+  - 215
+  - 135
+  - 135
+light_pink_95:
+  - 135
+  - 95
+  - 95
+light_salmon:
+  - 255
+  - 175
+  - 135
+light_salmon_137:
+  - 175
+  - 135
+  - 95
+light_salmon_173:
+  - 215
+  - 135
+  - 95
+light_sea_green:
+  - 0
+  - 175
+  - 175
+light_sky_blue:
+  - 175
+  - 215
+  - 255
+light_sky_blue_109:
+  - 135
+  - 175
+  - 175
+light_sky_blue_110:
+  - 135
+  - 175
+  - 215
+light_slate_blue:
+  - 135
+  - 135
+  - 255
+light_slate_grey:
+  - 135
+  - 135
+  - 175
+light_steel_blue:
+  - 175
+  - 175
+  - 255
+light_steel_blue_146:
+  - 175
+  - 175
+  - 215
+light_steel_blue_189:
+  - 215
+  - 215
+  - 255
+light_yellow:
+  - 215
+  - 215
+  - 175
+lime:
+  - 0
+  - 255
+  - 0
+magenta:
+  - 255
+  - 0
+  - 255
+magenta_127:
+  - 175
+  - 0
+  - 175
+magenta_163:
+  - 215
+  - 0
+  - 175
+magenta_164:
+  - 215
+  - 0
+  - 215
+magenta_165:
+  - 215
+  - 0
+  - 255
+magenta_200:
+  - 255
+  - 0
+  - 215
+maroon:
+  - 128
+  - 0
+  - 0
+medium_orchid:
+  - 175
+  - 95
+  - 215
+medium_orchid_133:
+  - 175
+  - 95
+  - 175
+medium_orchid_171:
+  - 215
+  - 95
+  - 255
+medium_orchid_207:
+  - 255
+  - 95
+  - 255
+medium_purple:
+  - 135
+  - 135
+  - 215
+medium_purple_135:
+  - 175
+  - 95
+  - 255
+medium_purple_140:
+  - 175
+  - 135
+  - 215
+medium_purple_141:
+  - 175
+  - 135
+  - 255
+medium_purple_60:
+  - 95
+  - 95
+  - 135
+medium_purple_97:
+  - 135
+  - 95
+  - 175
+medium_purple_98:
+  - 135
+  - 95
+  - 215
+medium_spring_green:
+  - 0
+  - 255
+  - 175
+medium_turquoise:
+  - 95
+  - 215
+  - 215
+medium_violet_red:
+  - 175
+  - 0
+  - 135
+misty_rose:
+  - 255
+  - 215
+  - 215
+misty_rose_181:
+  - 215
+  - 175
+  - 175
+navajo_white:
+  - 255
+  - 215
+  - 175
+navajo_white_144:
+  - 175
+  - 175
+  - 135
+navy:
+  - 0
+  - 0
+  - 128
+navy_blue:
+  - 0
+  - 0
+  - 95
+olive:
+  - 128
+  - 128
+  - 0
+orange:
+  - 255
+  - 175
+  - 0
+orange_172:
+  - 215
+  - 135
+  - 0
+orange_58:
+  - 95
+  - 95
+  - 0
+orange_94:
+  - 135
+  - 95
+  - 0
+orange_red:
+  - 255
+  - 95
+  - 0
+orchid:
+  - 215
+  - 95
+  - 215
+orchid_212:
+  - 255
+  - 135
+  - 215
+orchid_213:
+  - 255
+  - 135
+  - 255
+pale_green:
+  - 135
+  - 255
+  - 175
+pale_green_114:
+  - 135
+  - 215
+  - 135
+pale_green_156:
+  - 175
+  - 255
+  - 135
+pale_green_77:
+  - 95
+  - 215
+  - 95
+pale_turquoise:
+  - 175
+  - 255
+  - 255
+pale_turquoise_66:
+  - 95
+  - 135
+  - 135
+pale_violet_red:
+  - 255
+  - 135
+  - 175
+pink:
+  - 255
+  - 175
+  - 215
+pink_175:
+  - 215
+  - 135
+  - 175
+plum:
+  - 255
+  - 175
+  - 255
+plum_176:
+  - 215
+  - 135
+  - 215
+plum_183:
+  - 215
+  - 175
+  - 255
+plum_96:
+  - 135
+  - 95
+  - 135
+purple:
+  - 128
+  - 0
+  - 128
+purple_129:
+  - 175
+  - 0
+  - 255
+purple_54:
+  - 95
+  - 0
+  - 135
+purple_55:
+  - 95
+  - 0
+  - 175
+purple_56:
+  - 95
+  - 0
+  - 215
+purple_93:
+  - 135
+  - 0
+  - 255
+red:
+  - 255
+  - 0
+  - 0
+red_124:
+  - 175
+  - 0
+  - 0
+red_160:
+  - 215
+  - 0
+  - 0
+red_196:
+  - 255
+  - 0
+  - 0
+rosy_brown:
+  - 175
+  - 135
+  - 135
+royal_blue:
+  - 95
+  - 95
+  - 255
+salmon:
+  - 255
+  - 135
+  - 95
+sandy_brown:
+  - 255
+  - 175
+  - 95
+sea_green:
+  - 95
+  - 255
+  - 135
+sea_green_78:
+  - 95
+  - 215
+  - 135
+sea_green_83:
+  - 95
+  - 255
+  - 95
+sea_green_85:
+  - 95
+  - 255
+  - 175
+silver:
+  - 192
+  - 192
+  - 192
+sky_blue:
+  - 135
+  - 215
+  - 255
+sky_blue_111:
+  - 135
+  - 175
+  - 255
+sky_blue_74:
+  - 95
+  - 175
+  - 215
+slate_blue:
+  - 135
+  - 95
+  - 255
+slate_blue_61:
+  - 95
+  - 95
+  - 175
+slate_blue_62:
+  - 95
+  - 95
+  - 215
+spring_green:
+  - 0
+  - 255
+  - 135
+spring_green_29:
+  - 0
+  - 135
+  - 95
+spring_green_35:
+  - 0
+  - 175
+  - 95
+spring_green_41:
+  - 0
+  - 215
+  - 95
+spring_green_42:
+  - 0
+  - 215
+  - 135
+spring_green_47:
+  - 0
+  - 255
+  - 95
+steel_blue:
+  - 95
+  - 135
+  - 175
+steel_blue_68:
+  - 95
+  - 135
+  - 215
+steel_blue_75:
+  - 95
+  - 175
+  - 255
+steel_blue_81:
+  - 95
+  - 215
+  - 255
+tan:
+  - 215
+  - 175
+  - 135
+teal:
+  - 0
+  - 128
+  - 128
+thistle:
+  - 255
+  - 215
+  - 255
+thistle_182:
+  - 215
+  - 175
+  - 215
+turquoise:
+  - 0
+  - 215
+  - 255
+turquoise_30:
+  - 0
+  - 135
+  - 135
+violet:
+  - 215
+  - 135
+  - 255
+wheat:
+  - 255
+  - 255
+  - 175
+wheat_101:
+  - 135
+  - 135
+  - 95
+white:
+  - 255
+  - 255
+  - 255
+yellow:
+  - 255
+  - 255
+  - 0
+yellow_100:
+  - 135
+  - 135
+  - 0
+yellow_106:
+  - 135
+  - 175
+  - 0
+yellow_148:
+  - 175
+  - 215
+  - 0
+yellow_184:
+  - 215
+  - 215
+  - 0
+yellow_190:
+  - 215
+  - 255
+  - 0
+yellow_226:
+  - 255
+  - 255
+  - 0

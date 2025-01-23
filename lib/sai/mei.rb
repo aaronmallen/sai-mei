@@ -19,5 +19,20 @@ module Sai
   #
   # @api public
   module Mei
+    # The XTERM color palette
+    #
+    # @author {https://aaronmallen.me Aaron Allen}
+    # @since unreleased
+    #
+    # @api public
+    #
+    # @example Installing the XTERM color palette
+    #   Sai::Mei.xterm.install
+    #
+    # @return [Palette] the XTERM color palette instance
+    # @rbs () -> Palette
+    def self.xterm
+      Palette.load(:XTERM)
+    end
   end
 end
